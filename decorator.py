@@ -5,8 +5,8 @@ def validate_user(get):
         get(self, request)
     return validate
 
-class TopicsListAPIView(APIView):
-    """Returns a list of Topics data as API."""
+class BookListAPIView(APIView):
+    """Returns a list of Books data as API."""
 
     permission_classes = (IsAuthenticated, )
 
