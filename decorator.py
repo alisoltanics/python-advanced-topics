@@ -1,8 +1,8 @@
 def validate_user(get):
-    def validate(self, request):
+    def validate(*args, **kwargs):
         if user.is_suspended:
             raise SuspendedError
-        get(self, request)
+        get(*args, **kwargs)
     return validate
 
 class BookListAPIView(APIView):
