@@ -24,3 +24,11 @@ class Person:
 person = Person()
 person.age = 23
 print(person.age)
+
+
+@property
+def cash_desk(self):
+    if not hasattr(self, '_cash_desk'):
+        self._cash_desk = self.get_cashier()
+
+    return self._cash_desk
