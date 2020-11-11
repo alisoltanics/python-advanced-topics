@@ -9,5 +9,6 @@ class Person:
             "{} has no attribute {}".format(self.__class__.__name__, attr)
         )
 
+
 person = Person("ali")
 print(person.ali_asghar)
