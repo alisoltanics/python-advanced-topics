@@ -50,3 +50,8 @@ myFun(*args)
 
 kwargs = {"arg1" : "Geeks", "arg2" : "for", "arg3" : "Geeks"} 
 myFun(**kwargs) 
+
+
+
+
+https://www.geeksforgeeks.org/args-kwargs-python/
