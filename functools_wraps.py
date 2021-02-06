@@ -26,3 +26,5 @@ print(first_function.__name__)
 print(first_function.__doc__) 
 print(second_function.__name__) 
 print(second_function.__doc__) 
+
+https://www.geeksforgeeks.org/python-functools-wraps-function/
