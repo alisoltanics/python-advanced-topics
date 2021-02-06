@@ -1,5 +1,7 @@
 # Example (with functools.wraps())
 
+read this:
+https://stackoverflow.com/a/309000/6173668
 
 from functools import wraps 
   
