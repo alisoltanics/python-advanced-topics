@@ -76,3 +76,10 @@ occupation: str = field(init=False, repr=False)
 Person(name='John Doe', age=34)
 # John Doe is a Gardener
 # This is the output.
+
+
+
+
+
+
+https://zetcode.com/python/dataclass/
