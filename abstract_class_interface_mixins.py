@@ -93,3 +93,16 @@ class MyClass(MyMixin):
 my_object = MyClass()
 username = my_object.getname()
 ##############################################################################################
+
+
+
+
+
+
+
+
+
+
+
+# https://www.kite.com/python/answers/how-to-use-mixins-in-python
+# https://stackoverflow.com/a/59752820/6173668
