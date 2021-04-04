@@ -71,3 +71,9 @@ class Stu(object):
 stu = Stu()
 stu.age = 12    # set value=12
 print stu.age   # get value=12
+
+
+
+
+
+https://www.programmersought.com/article/2708863685/
