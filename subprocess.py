@@ -3,6 +3,7 @@ https://queirozf.com/entries/python-3-subprocess-examples
 
 async with subprocess:
     https://stackoverflow.com/a/636570/6173668
+    https://queirozf.com/entries/python-3-subprocess-examples#wait-for-command-to-terminate-asynchronously
 
 
 #########################################################################
