@@ -1,7 +1,8 @@
 # Example (with functools.wraps())
 
-read this:
+read these:
 https://stackoverflow.com/a/309000/6173668
+https://lerner.co.il/2019/05/05/making-your-python-decorators-even-better-with-functool-wraps/
 
 from functools import wraps 
   
