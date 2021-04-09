@@ -18,3 +18,9 @@ Iterator:
 When call iter() method of an iterable, it returns an iterator object.
 When call next method and send iterator to it, returns an object from iterable to us.
 
+
+
+
+
+
+https://stackoverflow.com/questions/9884132/what-exactly-are-iterator-iterable-and-iteration#:~:text=Iteration%20is%20a%20general%20term,and%20iterator%20have%20specific%20meanings.&text=So%20an%20iterable%20is%20an,can%20get%20an%20iterator%20from.
