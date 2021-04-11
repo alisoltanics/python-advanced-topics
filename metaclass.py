@@ -20,7 +20,8 @@ It won't return an IntegerField object. It will return an int, and can even take
 
 This is possible because models.Model defines __metaclass__ and it uses some magic that will turn the Person you just defined with simple statements into a complex hook to a database field.
 
-
-
+#########################################################################################################################################################
+The type class is even the metaclass for the built-in object class, which is the base class for all the classes in Python. As type itself is a class, what is the metaclass of the type class? The type class is a metaclass of itself!
+#########################################################################################################################################################
 
 #https://stackoverflow.com/a/6581949/6173668
