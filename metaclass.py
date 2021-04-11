@@ -1,3 +1,6 @@
+A metaclass in Python is a class of a class that defines how a class behaves. 
+
+
 First watch this: https://www.youtube.com/watch?v=NAQEj-c2CI8
 
 
