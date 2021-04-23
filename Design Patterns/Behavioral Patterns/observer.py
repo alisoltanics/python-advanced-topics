@@ -121,3 +121,7 @@ OctalViewer: SubjectData 1has data 0o12
 DecimalViewer: Subject Data 2 has data 15
 HexViewer: Subject Data 2 has data 0xf
 OctalViewer: SubjectData 2has data 0o17
+
+
+
+https://www.geeksforgeeks.org/observer-method-python-design-patterns/
